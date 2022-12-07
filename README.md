@@ -27,4 +27,33 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Deploy on Firebase Hosting:[JW-Bank-APP](https://jw-bank.web.app/)
 
+### Technologies and libraries used:
+
+- React JS
+- Bootstrap
+- Firebase Auth
+- Firebase Hosting
+- Firebase Database
+- TypeScript
+- @Mantine
+- Node js
+
+
+### Functionalities available:
+
+- Create Account
+- Login to Account
+- Deposit
+- Withdraw
+- AllData
+- LogOut
+
+### Author
+
+Jielin Wang
+Student at MIT - Fullstack Development with MERN
+
+### License
+
+MIT License
 

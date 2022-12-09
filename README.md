@@ -22,6 +22,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### App Overview Diagram
+
+<img width="466" alt="Screenshot 2022-12-07 at 4 59 28 PM" src="https://user-images.githubusercontent.com/94776104/206591899-16881af7-31e5-4ec9-a0ec-e7897b6ad37b.png">
 
 ### Deployment
 

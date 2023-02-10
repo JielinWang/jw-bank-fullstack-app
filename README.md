@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[jw-bank-fullstack-app Presentation](https://drive.google.com/file/d/13jsViaJFAOzt-DYv8QirfAsuV3_PCqWm/view?usp=sharing)
+
 ## Available Scripts
 
 In the project directory, you can run:
